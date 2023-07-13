@@ -1,8 +1,8 @@
 ---
 title: "Computer Vision - Intelligent Video Surveillance System for Real-time Crowd Analysis"
-description: "Developed a Neural Network to segment Brain tumors in MRI images"
+description: "Developed a application for social distance detection, anomaly detection and video summarization of CCTV footage"
 draft: false
-tags: ["Python", "Tensorflow", "YOLO", "Deep Learning", "Neural Network"]
+tags: ["Python", "Tensorflow", "YOLO", "Deep Learning", "Neural Network", "Computer Vision"]
 showToc: false
 weight: 105
 # cover:
