@@ -8,7 +8,7 @@ showToc: false
 weight: 302
 --- 
 
-### GPA : 3.86
+### GPA : 3.94
 
 ### CGPA : 9.86/10
 
