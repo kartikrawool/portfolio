@@ -11,6 +11,7 @@ weight: 301
 ### GPA : 4.0 
 
 ### Coursework
+- Fall 23
 
 - Spring 23
     - CSC 517 Object-Oriented Design & Development
