@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Django on Kartik Rawool</title>
+    <link>https://kartikrawool.github.io/portfolio/tags/django/</link>
+    <description>Recent content in Django on Kartik Rawool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kartikrawool.github.io/portfolio/tags/django/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Development and Machine Learning - Wound Detection and Universal ID</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/wound/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/wound/</guid>
+      <description>Developed a web app using Django which classified a wound image as severe or non-severe, and upon detection, prompted the user with a relevant action.</description>
+    </item>
+    
+  </channel>
+</rss>

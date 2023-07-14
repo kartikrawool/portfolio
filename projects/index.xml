@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Projects on Kartik Rawool</title>
+    <link>https://kartikrawool.github.io/portfolio/projects/</link>
+    <description>Recent content in Projects on Kartik Rawool</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://kartikrawool.github.io/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Database Management System - Wolf Media</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/wolfmedia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/wolfmedia/</guid>
+      <description>Database management system for music streaming service</description>
+    </item>
+    
+    <item>
+      <title>Image Segmentation - Brain Tumor Segmentation of MRI images</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/brain-tumor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/brain-tumor/</guid>
+      <description>Developed a Neural Network to segment Brain tumors in MRI images</description>
+    </item>
+    
+    <item>
+      <title>Time Series - Terrain Identification from Time Series Data</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/terrain/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/terrain/</guid>
+      <description>Developed a model to detect Terrain from the IMU data from prosthetics.</description>
+    </item>
+    
+    <item>
+      <title>Software Development - Online Book-shopping System</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/book/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/book/</guid>
+      <description>Developed a CRUD application using Ruby on Rails</description>
+    </item>
+    
+    <item>
+      <title>Web Scraping and Web Development - Job Cruncher - Online Job Scraping and Analysis Tool</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/job-cruncher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/job-cruncher/</guid>
+      <description>Developed a Web application to help job seekers compare different job listings based on several factors</description>
+    </item>
+    
+    <item>
+      <title>Computer Vision - Intelligent Video Surveillance System for Real-time Crowd Analysis</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/video/</guid>
+      <description>Developed a application for social distance detection, anomaly detection and video summarization of CCTV footage</description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing - Sentiment Analysis of COVID-19 Tweets</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/sentiment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/sentiment/</guid>
+      <description>Trained a Machine Learning model to detect sentiment of tweets related to Covid-19.</description>
+    </item>
+    
+    <item>
+      <title>Data Visualization Dashboard - Air Quality Visualization</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/air-quality-visualization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/air-quality-visualization/</guid>
+      <description>Created a multilayered visualization dashboard using PowerBI for capturing information from different wards.</description>
+    </item>
+    
+    <item>
+      <title>Web Development and Machine Learning - Wound Detection and Universal ID</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/wound/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/wound/</guid>
+      <description>Developed a web app using Django which classified a wound image as severe or non-severe, and upon detection, prompted the user with a relevant action.</description>
+    </item>
+    
+    <item>
+      <title>Recommendation System - Movie Recommendation System using R</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/movie-recommendation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/movie-recommendation/</guid>
+      <description>Created a recommendation system based on user based collaborative filtering</description>
+    </item>
+    
+    <item>
+      <title>Regression Analysis - Flight Ticket Price Prediction</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/ticket-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/ticket-prediction/</guid>
+      <description>Trained a Machine Learning model to predict the price of flight ticket</description>
+    </item>
+    
+  </channel>
+</rss>
