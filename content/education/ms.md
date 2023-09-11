@@ -11,6 +11,11 @@ weight: 301
 ### GPA : 4.0 
 
 ### Coursework
+- Fall 23
+    - CSC 547 Cloud Computing
+    - CSC 591 Machine Learning for User Adaptive Systems
+    - CSC 591 Generative AI for Software Engineering
+
 - Spring 23
     - CSC 517 Object-Oriented Design & Development
     - CSC 540 Database Manangement System
