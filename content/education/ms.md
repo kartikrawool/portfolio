@@ -1,7 +1,7 @@
 ---
 title: "Master of Computer Science"
 description: "North Carolina State University"
-dateString: Aug 2022 - May 2024 (Expected)
+dateString: Aug 2022 - May 2024
 draft: false
 tags: []
 showToc: false
@@ -11,6 +11,9 @@ weight: 301
 ### GPA : 4.0 
 
 ### Coursework
+- Spring 24
+    - CSC 574 Computer Network and Security
+
 - Fall 23
     - CSC 547 Cloud Computing
     - CSC 591 Machine Learning for User Adaptive Systems
