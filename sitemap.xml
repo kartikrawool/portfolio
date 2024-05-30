@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kartikrawool.github.io/portfolio/projects/genai-github/</loc>
+  </url><url>
     <loc>https://kartikrawool.github.io/portfolio/projects/wolfmedia/</loc>
   </url><url>
     <loc>https://kartikrawool.github.io/portfolio/blog/aws-dva-certification/</loc>
@@ -82,7 +84,13 @@
   </url><url>
     <loc>https://kartikrawool.github.io/portfolio/tags/flask/</loc>
   </url><url>
+    <loc>https://kartikrawool.github.io/portfolio/tags/genai/</loc>
+  </url><url>
+    <loc>https://kartikrawool.github.io/portfolio/tags/github/</loc>
+  </url><url>
     <loc>https://kartikrawool.github.io/portfolio/tags/github-actions/</loc>
+  </url><url>
+    <loc>https://kartikrawool.github.io/portfolio/tags/gpt-4/</loc>
   </url><url>
     <loc>https://kartikrawool.github.io/portfolio/tags/integration/</loc>
   </url><url>
@@ -108,9 +116,13 @@
   </url><url>
     <loc>https://kartikrawool.github.io/portfolio/tags/object-oriented-design/</loc>
   </url><url>
+    <loc>https://kartikrawool.github.io/portfolio/tags/openai-api/</loc>
+  </url><url>
     <loc>https://kartikrawool.github.io/portfolio/tags/pca/</loc>
   </url><url>
     <loc>https://kartikrawool.github.io/portfolio/tags/playwright/</loc>
+  </url><url>
+    <loc>https://kartikrawool.github.io/portfolio/tags/postgresql/</loc>
   </url><url>
     <loc>https://kartikrawool.github.io/portfolio/tags/powerbi/</loc>
   </url><url>
@@ -135,6 +147,8 @@
     <loc>https://kartikrawool.github.io/portfolio/tags/ruby-on-rails/</loc>
   </url><url>
     <loc>https://kartikrawool.github.io/portfolio/tags/saa/</loc>
+  </url><url>
+    <loc>https://kartikrawool.github.io/portfolio/tags/scala/</loc>
   </url><url>
     <loc>https://kartikrawool.github.io/portfolio/search/</loc>
   </url><url>

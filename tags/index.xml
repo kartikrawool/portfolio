@@ -133,11 +133,38 @@
     </item>
     
     <item>
+      <title>GenAI</title>
+      <link>https://kartikrawool.github.io/portfolio/tags/genai/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/tags/genai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GitHub</title>
+      <link>https://kartikrawool.github.io/portfolio/tags/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Github Actions</title>
       <link>https://kartikrawool.github.io/portfolio/tags/github-actions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kartikrawool.github.io/portfolio/tags/github-actions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPT-4</title>
+      <link>https://kartikrawool.github.io/portfolio/tags/gpt-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/tags/gpt-4/</guid>
       <description></description>
     </item>
     
@@ -241,6 +268,15 @@
     </item>
     
     <item>
+      <title>OpenAI API</title>
+      <link>https://kartikrawool.github.io/portfolio/tags/openai-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/tags/openai-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>PCA</title>
       <link>https://kartikrawool.github.io/portfolio/tags/pca/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -255,6 +291,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kartikrawool.github.io/portfolio/tags/playwright/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PostgreSQL</title>
+      <link>https://kartikrawool.github.io/portfolio/tags/postgresql/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/tags/postgresql/</guid>
       <description></description>
     </item>
     
@@ -354,6 +399,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://kartikrawool.github.io/portfolio/tags/saa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scala</title>
+      <link>https://kartikrawool.github.io/portfolio/tags/scala/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/tags/scala/</guid>
       <description></description>
     </item>
     

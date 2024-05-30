@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://kartikrawool.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Generative AI - DevOps LLM Bot</title>
+      <link>https://kartikrawool.github.io/portfolio/projects/genai-github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kartikrawool.github.io/portfolio/projects/genai-github/</guid>
+      <description>Generate GitHub workflows utilizing LLMs</description>
+    </item>
+    
+    <item>
       <title>Database Management System - Wolf Media</title>
       <link>https://kartikrawool.github.io/portfolio/projects/wolfmedia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
