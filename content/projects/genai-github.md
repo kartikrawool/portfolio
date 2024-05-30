@@ -4,7 +4,7 @@ description: "Generate GitHub workflows utilizing LLMs"
 draft: false
 tags: ["GenAI", "GitHub", "OpenAI API", "GPT-4"]
 showToc: false
-weight: 99
+weight: 100
 --- 
 
 ### 🔗 [GitHub](https://github.com/kartikrawool/devops-llm-bot)
