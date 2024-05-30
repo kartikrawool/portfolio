@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kartikrawool.github.io/portfolio/projects/genai-github/</loc>
-  </url><url>
     <loc>https://kartikrawool.github.io/portfolio/projects/wolfmedia/</loc>
+  </url><url>
+    <loc>https://kartikrawool.github.io/portfolio/projects/genai-github/</loc>
   </url><url>
     <loc>https://kartikrawool.github.io/portfolio/blog/aws-dva-certification/</loc>
   </url><url>
